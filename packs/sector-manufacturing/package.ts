@@ -28,38 +28,74 @@ export default definePackage({
     {
       "packageId": "accounting-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on accounting-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
     },
     {
       "packageId": "procurement-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on procurement-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
     },
     {
       "packageId": "sales-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on sales-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
     },
     {
       "packageId": "inventory-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on inventory-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
     },
     {
       "packageId": "manufacturing-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on manufacturing-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
     },
     {
       "packageId": "quality-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on quality-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
     },
     {
       "packageId": "assets-core",
       "class": "required",
-      "rationale": "Sector Pack Manufacturing depends on assets-core for governed pack installation."
+      "rationale": "Required for Sector Pack Manufacturing to keep its boundary governed and explicit."
+    },
+    {
+      "packageId": "hr-payroll-core",
+      "class": "optional",
+      "rationale": "Recommended with Sector Pack Manufacturing for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "maintenance-cmms-core",
+      "class": "optional",
+      "rationale": "Recommended with Sector Pack Manufacturing for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "analytics-bi-core",
+      "class": "capability-enhancing",
+      "rationale": "Improves Sector Pack Manufacturing with deeper downstream automation, visibility, or workflow coverage."
+    },
+    {
+      "packageId": "business-portals-core",
+      "class": "capability-enhancing",
+      "rationale": "Improves Sector Pack Manufacturing with deeper downstream automation, visibility, or workflow coverage."
     }
+  ],
+  "recommendedPlugins": [
+    "hr-payroll-core",
+    "maintenance-cmms-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "analytics-bi-core",
+    "business-portals-core"
+  ],
+  "integrationOnlyPlugins": [],
+  "suggestedPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "standaloneSupported": false,
+  "installNotes": [
+    "Sector Pack Manufacturing is a pack artifact and should be installed into an already-bootstrapped Business OS tenant or workspace."
   ],
   "providesCapabilities": [
     "packs.sector-manufacturing"

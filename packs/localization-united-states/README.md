@@ -8,6 +8,9 @@ United States fiscal, withholding, sales-tax, and payroll-oriented localization 
 - Pack Type: `localization-pack`
 - Environment Scope: `localization`
 - Required Plugins: `pricing-tax-core`, `accounting-core`, `hr-payroll-core`, `treasury-core`
+- Recommended Plugins: `analytics-bi-core`
+- Capability Enhancing Plugins: `business-portals-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

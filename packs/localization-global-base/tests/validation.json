@@ -8,6 +8,12 @@
     "traceability-core",
     "accounting-core"
   ],
+  "recommendedPlugins": [
+    "treasury-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

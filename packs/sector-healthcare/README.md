@@ -8,6 +8,9 @@ Healthcare overlays for patient-facing intake, encounter support, pharmacy or co
 - Pack Type: `sector-template`
 - Environment Scope: `sector`
 - Required Plugins: `accounting-core`, `inventory-core`, `support-service-core`, `crm-core`, `hr-payroll-core`, `business-portals-core`
+- Recommended Plugins: `contracts-core`, `analytics-bi-core`
+- Capability Enhancing Plugins: `e-invoicing-core`, `ai-assist-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

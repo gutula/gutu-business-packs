@@ -8,6 +8,14 @@
     "inventory-core",
     "crm-core"
   ],
+  "recommendedPlugins": [
+    "quality-core",
+    "business-portals-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "analytics-bi-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

@@ -7,6 +7,14 @@
     "e-invoicing-core",
     "hr-payroll-core"
   ],
+  "recommendedPlugins": [
+    "treasury-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "business-portals-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

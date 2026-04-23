@@ -26,28 +26,58 @@ export default definePackage({
     {
       "packageId": "accounting-core",
       "class": "required",
-      "rationale": "Sector Pack Trading & Distribution depends on accounting-core for governed pack installation."
+      "rationale": "Required for Sector Pack Trading & Distribution to keep its boundary governed and explicit."
     },
     {
       "packageId": "procurement-core",
       "class": "required",
-      "rationale": "Sector Pack Trading & Distribution depends on procurement-core for governed pack installation."
+      "rationale": "Required for Sector Pack Trading & Distribution to keep its boundary governed and explicit."
     },
     {
       "packageId": "sales-core",
       "class": "required",
-      "rationale": "Sector Pack Trading & Distribution depends on sales-core for governed pack installation."
+      "rationale": "Required for Sector Pack Trading & Distribution to keep its boundary governed and explicit."
     },
     {
       "packageId": "inventory-core",
       "class": "required",
-      "rationale": "Sector Pack Trading & Distribution depends on inventory-core for governed pack installation."
+      "rationale": "Required for Sector Pack Trading & Distribution to keep its boundary governed and explicit."
     },
     {
       "packageId": "crm-core",
       "class": "required",
-      "rationale": "Sector Pack Trading & Distribution depends on crm-core for governed pack installation."
+      "rationale": "Required for Sector Pack Trading & Distribution to keep its boundary governed and explicit."
+    },
+    {
+      "packageId": "quality-core",
+      "class": "optional",
+      "rationale": "Recommended with Sector Pack Trading & Distribution for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "business-portals-core",
+      "class": "optional",
+      "rationale": "Recommended with Sector Pack Trading & Distribution for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "analytics-bi-core",
+      "class": "capability-enhancing",
+      "rationale": "Improves Sector Pack Trading & Distribution with deeper downstream automation, visibility, or workflow coverage."
     }
+  ],
+  "recommendedPlugins": [
+    "quality-core",
+    "business-portals-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "analytics-bi-core"
+  ],
+  "integrationOnlyPlugins": [],
+  "suggestedPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "standaloneSupported": false,
+  "installNotes": [
+    "Sector Pack Trading & Distribution is a pack artifact and should be installed into an already-bootstrapped Business OS tenant or workspace."
   ],
   "providesCapabilities": [
     "packs.sector-trading-distribution"

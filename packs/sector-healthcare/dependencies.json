@@ -7,6 +7,15 @@
     "hr-payroll-core",
     "business-portals-core"
   ],
+  "recommendedPlugins": [
+    "contracts-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "e-invoicing-core",
+    "ai-assist-core"
+  ],
+  "integrationOnlyPlugins": [],
   "dependsOnPacks": [
     "localization-global-base@^0.1.0"
   ],

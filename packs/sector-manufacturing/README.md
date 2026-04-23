@@ -8,6 +8,9 @@ Discrete manufacturing overlays for production, quality, inventory, and accounti
 - Pack Type: `sector-template`
 - Environment Scope: `sector`
 - Required Plugins: `accounting-core`, `procurement-core`, `sales-core`, `inventory-core`, `manufacturing-core`, `quality-core`, `assets-core`
+- Recommended Plugins: `hr-payroll-core`, `maintenance-cmms-core`
+- Capability Enhancing Plugins: `analytics-bi-core`, `business-portals-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

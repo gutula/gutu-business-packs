@@ -26,28 +26,49 @@ export default definePackage({
     {
       "packageId": "party-relationships-core",
       "class": "required",
-      "rationale": "Localization Global Base depends on party-relationships-core for governed pack installation."
+      "rationale": "Required for Localization Global Base to keep its boundary governed and explicit."
     },
     {
       "packageId": "product-catalog-core",
       "class": "required",
-      "rationale": "Localization Global Base depends on product-catalog-core for governed pack installation."
+      "rationale": "Required for Localization Global Base to keep its boundary governed and explicit."
     },
     {
       "packageId": "pricing-tax-core",
       "class": "required",
-      "rationale": "Localization Global Base depends on pricing-tax-core for governed pack installation."
+      "rationale": "Required for Localization Global Base to keep its boundary governed and explicit."
     },
     {
       "packageId": "traceability-core",
       "class": "required",
-      "rationale": "Localization Global Base depends on traceability-core for governed pack installation."
+      "rationale": "Required for Localization Global Base to keep its boundary governed and explicit."
     },
     {
       "packageId": "accounting-core",
       "class": "required",
-      "rationale": "Localization Global Base depends on accounting-core for governed pack installation."
+      "rationale": "Required for Localization Global Base to keep its boundary governed and explicit."
+    },
+    {
+      "packageId": "treasury-core",
+      "class": "optional",
+      "rationale": "Recommended with Localization Global Base for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "analytics-bi-core",
+      "class": "optional",
+      "rationale": "Recommended with Localization Global Base for smoother production adoption and operator experience."
     }
+  ],
+  "recommendedPlugins": [
+    "treasury-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [],
+  "integrationOnlyPlugins": [],
+  "suggestedPacks": [],
+  "standaloneSupported": false,
+  "installNotes": [
+    "Localization Global Base is a pack artifact and should be installed into an already-bootstrapped Business OS tenant or workspace."
   ],
   "providesCapabilities": [
     "packs.localization-global-base"

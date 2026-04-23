@@ -7,6 +7,14 @@
     "crm-core",
     "procurement-core"
   ],
+  "recommendedPlugins": [
+    "business-portals-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "ai-assist-core"
+  ],
+  "integrationOnlyPlugins": [],
   "dependsOnPacks": [
     "localization-global-base@^0.1.0"
   ],

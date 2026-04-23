@@ -25,23 +25,47 @@ export default definePackage({
     {
       "packageId": "pricing-tax-core",
       "class": "required",
-      "rationale": "Localization United States depends on pricing-tax-core for governed pack installation."
+      "rationale": "Required for Localization United States to keep its boundary governed and explicit."
     },
     {
       "packageId": "accounting-core",
       "class": "required",
-      "rationale": "Localization United States depends on accounting-core for governed pack installation."
+      "rationale": "Required for Localization United States to keep its boundary governed and explicit."
     },
     {
       "packageId": "hr-payroll-core",
       "class": "required",
-      "rationale": "Localization United States depends on hr-payroll-core for governed pack installation."
+      "rationale": "Required for Localization United States to keep its boundary governed and explicit."
     },
     {
       "packageId": "treasury-core",
       "class": "required",
-      "rationale": "Localization United States depends on treasury-core for governed pack installation."
+      "rationale": "Required for Localization United States to keep its boundary governed and explicit."
+    },
+    {
+      "packageId": "analytics-bi-core",
+      "class": "optional",
+      "rationale": "Recommended with Localization United States for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "business-portals-core",
+      "class": "capability-enhancing",
+      "rationale": "Improves Localization United States with deeper downstream automation, visibility, or workflow coverage."
     }
+  ],
+  "recommendedPlugins": [
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "business-portals-core"
+  ],
+  "integrationOnlyPlugins": [],
+  "suggestedPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "standaloneSupported": false,
+  "installNotes": [
+    "Localization United States is a pack artifact and should be installed into an already-bootstrapped Business OS tenant or workspace."
   ],
   "providesCapabilities": [
     "packs.localization-united-states"

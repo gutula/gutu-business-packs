@@ -5,6 +5,13 @@
     "hr-payroll-core",
     "treasury-core"
   ],
+  "recommendedPlugins": [
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "business-portals-core"
+  ],
+  "integrationOnlyPlugins": [],
   "dependsOnPacks": [
     "localization-global-base@^0.1.0"
   ],

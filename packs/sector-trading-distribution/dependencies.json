@@ -6,6 +6,14 @@
     "inventory-core",
     "crm-core"
   ],
+  "recommendedPlugins": [
+    "quality-core",
+    "business-portals-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "analytics-bi-core"
+  ],
+  "integrationOnlyPlugins": [],
   "dependsOnPacks": [
     "localization-global-base@^0.1.0"
   ],

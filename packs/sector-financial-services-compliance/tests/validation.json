@@ -8,6 +8,14 @@
     "contracts-core",
     "business-portals-core"
   ],
+  "recommendedPlugins": [
+    "treasury-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "ai-assist-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

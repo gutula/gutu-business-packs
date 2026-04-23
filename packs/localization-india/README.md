@@ -8,6 +8,9 @@ India-focused GST, withholding, statutory numbering, and e-invoicing overlays fo
 - Pack Type: `localization-pack`
 - Environment Scope: `localization`
 - Required Plugins: `pricing-tax-core`, `accounting-core`, `e-invoicing-core`, `hr-payroll-core`
+- Recommended Plugins: `treasury-core`, `analytics-bi-core`
+- Capability Enhancing Plugins: `business-portals-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

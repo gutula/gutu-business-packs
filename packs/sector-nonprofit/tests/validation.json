@@ -8,6 +8,14 @@
     "support-service-core",
     "business-portals-core"
   ],
+  "recommendedPlugins": [
+    "contracts-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "ai-assist-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

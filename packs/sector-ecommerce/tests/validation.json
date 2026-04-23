@@ -9,6 +9,15 @@
     "support-service-core",
     "business-portals-core"
   ],
+  "recommendedPlugins": [
+    "subscriptions-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "ai-assist-core",
+    "e-invoicing-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

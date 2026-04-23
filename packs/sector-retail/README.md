@@ -8,6 +8,9 @@ Retail overlays for POS, promotions, cashier control, omnichannel fulfillment, a
 - Pack Type: `sector-template`
 - Environment Scope: `sector`
 - Required Plugins: `accounting-core`, `sales-core`, `inventory-core`, `pos-core`, `crm-core`, `procurement-core`
+- Recommended Plugins: `business-portals-core`, `analytics-bi-core`
+- Capability Enhancing Plugins: `ai-assist-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

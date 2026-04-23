@@ -26,28 +26,58 @@ export default definePackage({
     {
       "packageId": "crm-core",
       "class": "required",
-      "rationale": "Sector Pack Financial Services Compliance depends on crm-core for governed pack installation."
+      "rationale": "Required for Sector Pack Financial Services Compliance to keep its boundary governed and explicit."
     },
     {
       "packageId": "accounting-core",
       "class": "required",
-      "rationale": "Sector Pack Financial Services Compliance depends on accounting-core for governed pack installation."
+      "rationale": "Required for Sector Pack Financial Services Compliance to keep its boundary governed and explicit."
     },
     {
       "packageId": "support-service-core",
       "class": "required",
-      "rationale": "Sector Pack Financial Services Compliance depends on support-service-core for governed pack installation."
+      "rationale": "Required for Sector Pack Financial Services Compliance to keep its boundary governed and explicit."
     },
     {
       "packageId": "contracts-core",
       "class": "required",
-      "rationale": "Sector Pack Financial Services Compliance depends on contracts-core for governed pack installation."
+      "rationale": "Required for Sector Pack Financial Services Compliance to keep its boundary governed and explicit."
     },
     {
       "packageId": "business-portals-core",
       "class": "required",
-      "rationale": "Sector Pack Financial Services Compliance depends on business-portals-core for governed pack installation."
+      "rationale": "Required for Sector Pack Financial Services Compliance to keep its boundary governed and explicit."
+    },
+    {
+      "packageId": "treasury-core",
+      "class": "optional",
+      "rationale": "Recommended with Sector Pack Financial Services Compliance for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "analytics-bi-core",
+      "class": "optional",
+      "rationale": "Recommended with Sector Pack Financial Services Compliance for smoother production adoption and operator experience."
+    },
+    {
+      "packageId": "ai-assist-core",
+      "class": "capability-enhancing",
+      "rationale": "Improves Sector Pack Financial Services Compliance with deeper downstream automation, visibility, or workflow coverage."
     }
+  ],
+  "recommendedPlugins": [
+    "treasury-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "ai-assist-core"
+  ],
+  "integrationOnlyPlugins": [],
+  "suggestedPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "standaloneSupported": false,
+  "installNotes": [
+    "Sector Pack Financial Services Compliance is a pack artifact and should be installed into an already-bootstrapped Business OS tenant or workspace."
   ],
   "providesCapabilities": [
     "packs.sector-financial-services-compliance"

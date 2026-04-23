@@ -10,6 +10,15 @@
     "quality-core",
     "assets-core"
   ],
+  "recommendedPlugins": [
+    "hr-payroll-core",
+    "maintenance-cmms-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "analytics-bi-core",
+    "business-portals-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

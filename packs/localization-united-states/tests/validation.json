@@ -7,6 +7,13 @@
     "hr-payroll-core",
     "treasury-core"
   ],
+  "recommendedPlugins": [
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "business-portals-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

@@ -6,6 +6,12 @@
     "traceability-core",
     "accounting-core"
   ],
+  "recommendedPlugins": [
+    "treasury-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [],
+  "integrationOnlyPlugins": [],
   "dependsOnPacks": [],
   "pluginConstraints": {
     "party-relationships-core": "^0.1.0",

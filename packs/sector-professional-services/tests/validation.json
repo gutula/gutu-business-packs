@@ -10,6 +10,14 @@
     "hr-payroll-core",
     "contracts-core"
   ],
+  "recommendedPlugins": [
+    "business-portals-core",
+    "analytics-bi-core"
+  ],
+  "capabilityEnhancingPlugins": [
+    "ai-assist-core"
+  ],
+  "integrationOnlyPlugins": [],
   "expectedObjects": [
     "settings/defaults",
     "workflows/default",

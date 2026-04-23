@@ -8,6 +8,9 @@ Trading and distribution overlays for sourcing, multi-warehouse fulfillment, pri
 - Pack Type: `sector-template`
 - Environment Scope: `sector`
 - Required Plugins: `accounting-core`, `procurement-core`, `sales-core`, `inventory-core`, `crm-core`
+- Recommended Plugins: `quality-core`, `business-portals-core`
+- Capability Enhancing Plugins: `analytics-bi-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

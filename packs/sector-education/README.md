@@ -8,6 +8,9 @@ Education overlays for student, guardian, fees, academic exception handling, and
 - Pack Type: `sector-template`
 - Environment Scope: `sector`
 - Required Plugins: `accounting-core`, `crm-core`, `support-service-core`, `hr-payroll-core`, `business-portals-core`
+- Recommended Plugins: `projects-core`, `contracts-core`
+- Capability Enhancing Plugins: `analytics-bi-core`, `ai-assist-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects

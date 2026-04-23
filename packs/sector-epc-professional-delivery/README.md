@@ -8,6 +8,9 @@ Project-heavy EPC and delivery overlays for milestones, BOQ-style structures, pr
 - Pack Type: `sector-template`
 - Environment Scope: `sector`
 - Required Plugins: `projects-core`, `procurement-core`, `sales-core`, `accounting-core`, `contracts-core`
+- Recommended Plugins: `hr-payroll-core`, `business-portals-core`
+- Capability Enhancing Plugins: `analytics-bi-core`
+- Integration-Only Plugins: None
 - Depends On Packs: `localization-global-base@^0.1.0`
 
 ## Included Objects
