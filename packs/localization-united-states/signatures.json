@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.146Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "3927a62e88e4f13b2a996e1e3a491b0125b62d74c8ee217f98f8a6aa51cb26b7"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "65fde15315361d677b5c16c4cdc97a4f272ec12c0e82ac30726ea02668fd6d27"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "64bd8ff061991e3bdce85abd342058b995e3a8db83d59b35149bf5759892363e"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "acf7ab2a5c31f271a0d0c183a459dd2c11e04c060cd4a0dfc345de02514d6147"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "838d172018a757e4f9a53ef7235c9d069376d36159f84e9adf8280ab3657a5b1"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "b8bcbd9ad2848329effa344a773a474730f9a4abe07941690a4b52c04bb02ac9"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "87b9149522436b805d4e819842130404e9ea9e2c47953cded39488182f9a4a81"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "6edb4fa9c2b6ca06590c1cc2de88af58540fcd5bea039ca06ee4845242fcca9a"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "14f56a4661a1852e645f179ef6cc867c0ac48f817c47fc98d9976011ee401612"
-    },
-    {
-      "path": "README.md",
-      "sha256": "f4d48bc9c19573357eb87882094bbef88f3b17bc45aba6e6c38ee69bdac364a8"
-    }
-  ],
-  "signature": "c11da7f21fee5283aec0d2ceb154ddba7dd21f7d60596cd535aaf0c8ff080e1a",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Localization United States must be signed before stable promotion."
 }

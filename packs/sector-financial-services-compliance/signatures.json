@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.149Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "0b938b23f43f33b40e1f9ca27f2f181b0c0b7d4e35f5ded330d916f230bb5ad1"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "db90ef2475d92b9f3bb70b36dec464365dba8b3743375bf6d7cacf6fa3401d1e"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "c4a3b710e0b2bc0c3aa20eb0a992cd7082ba08d8ff55027679225575e1fd6d19"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "26a5d0ea8029858678499151d9abfd06182d96f9a1531f1b8d4daaecd1550e5d"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "316380336cb7e91e569f917e846e0cde972902c5b6d0af661b0766d4d78da152"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "810a7fe97418b6e46309fa49a1fb356ce6bcf959c064e9faf494abcfa6f0b2f4"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "e834f851ec195fd1ee656ef8ea7b0737b66525f5af0f6dc2f80837a9519398cc"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "c037c591c80d93e3d67073e7118d68c232c3c969265e459230f4c26ba51c4277"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "6319896c0722762ff61be44e54cf355d460a0ce9aac20c2ed9257d90ff4ac5dd"
-    },
-    {
-      "path": "README.md",
-      "sha256": "3d167c61ae89677105d126a0146180cbcc8f06fb854a24e5d09995335e390940"
-    }
-  ],
-  "signature": "b44ee157e478f108dee9423a9c57d544d89965d1c00c0f5e35881ff0e96347a5",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Sector Pack Financial Services Compliance must be signed before stable promotion."
 }

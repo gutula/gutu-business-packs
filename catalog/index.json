@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-23T07:05:08.435Z",
+  "generatedAt": "2026-04-23T10:21:02.552Z",
   "packages": [
     {
       "id": "localization-global-base",
@@ -21,9 +21,8 @@
       "packType": "localization-pack",
       "environmentScope": "localization",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/localization-global-base/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/localization-global-base/pack.json"
     },
     {
       "id": "localization-india",
@@ -44,9 +43,8 @@
       "packType": "localization-pack",
       "environmentScope": "localization",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/localization-india/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/localization-india/pack.json"
     },
     {
       "id": "localization-united-states",
@@ -67,9 +65,8 @@
       "packType": "localization-pack",
       "environmentScope": "localization",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/localization-united-states/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/localization-united-states/pack.json"
     },
     {
       "id": "sector-ecommerce",
@@ -90,9 +87,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-ecommerce/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-ecommerce/pack.json"
     },
     {
       "id": "sector-education",
@@ -113,9 +109,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-education/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-education/pack.json"
     },
     {
       "id": "sector-epc-professional-delivery",
@@ -136,9 +131,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-epc-professional-delivery/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-epc-professional-delivery/pack.json"
     },
     {
       "id": "sector-financial-services-compliance",
@@ -159,9 +153,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-financial-services-compliance/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-financial-services-compliance/pack.json"
     },
     {
       "id": "sector-healthcare",
@@ -182,9 +175,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-healthcare/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-healthcare/pack.json"
     },
     {
       "id": "sector-manufacturing",
@@ -205,9 +197,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-manufacturing/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-manufacturing/pack.json"
     },
     {
       "id": "sector-nonprofit",
@@ -228,9 +219,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-nonprofit/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-nonprofit/pack.json"
     },
     {
       "id": "sector-professional-services",
@@ -251,9 +241,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-professional-services/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-professional-services/pack.json"
     },
     {
       "id": "sector-retail",
@@ -274,9 +263,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-retail/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-retail/pack.json"
     },
     {
       "id": "sector-trading-distribution",
@@ -297,9 +285,8 @@
       "packType": "sector-template",
       "environmentScope": "sector",
       "trustTier": "internal-signed",
-      "signatureStatus": "signed",
-      "path": "packs/sector-trading-distribution/pack.json",
-      "promotedChannel": "stable"
+      "signatureStatus": "unsigned",
+      "path": "packs/sector-trading-distribution/pack.json"
     }
   ]
 }

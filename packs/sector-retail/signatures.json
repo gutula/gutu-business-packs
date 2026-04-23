@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.147Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "7fc950c3d6ee29d7edf51f3a0dd090e61c5ddb77345ab03fa60a60bd15374f54"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "f0e24d01842c57b2bb582ff0350019df61ebeeb2d15e8cd7d9d2bf1a0ff4b9dd"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "b7e3f4f479bd150ce6f562d956e9f62ff2b46866a204942993e062b417a04269"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "010e00b03d9e91ea9606943d870398061a996027f5df4e67fa0508c7dc6997d0"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "d798c01cbe309098001d37bded9b9c6bb27c3829e73d101ceab60d74af780ef0"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "c7659076234e94ab991ef843ed87498ecc58a93a03e642dfb60484917c249fb8"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "bbe51ba3ec552187c967caf8a7bc22f681884989f961fbccdfd917265d959e06"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "cbeb008f8487132749629aee737baf60b2d2a9a8c73a38f60d0033a2848771d2"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "4e626c81aa16a3eefff3d52636a8d2c38b615e76a5e244f618242eb8fc2a9c79"
-    },
-    {
-      "path": "README.md",
-      "sha256": "6892e9bbb1c30edeb29d44091855685c17796fd82fbe2adbb5821f13610fea04"
-    }
-  ],
-  "signature": "d6efaf958b55b9010f29b22c84064e148b60ba023485113bc7a41aaf066fc405",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Sector Pack Retail must be signed before stable promotion."
 }

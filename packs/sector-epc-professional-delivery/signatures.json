@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.147Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "9574025d63d16cb3e73a24f308b0f56c05282bab4fd510f97c7ae1454a2144d2"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "8fb45671d1a654fac3991d2beaeaac727014da3d9e513da6d7d1024bcf7d1c3e"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "8864d9499892fd65edac61b4b68d91fe6fd615a34d470eb026d7154ab15ff40e"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "50d3dafeae08bf4753878b1552636be761a00554e98a4d36d6b39d1d37947be0"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "fa80a9b0dfd0744d7bcbe4cf2e5febcae50dfcb14b358e2cc053dfc16f113fc4"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "3e9f02d6bc8b783394b0638e5c28664aa3da4e857a0451c538b2ae8aa8ba6a21"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "80ac6d8a200a3877e829af24676abeec0d0eb73995bab9f13a120dc84075d0f2"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "ca47f0d77b1db04a41aabd71d07232827ad85c3f75fea9159ce429f5d55ba43d"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "ac83de8de3552994dfcfea479f7b338fd496449073e3e1b1a3957e2c3dc14027"
-    },
-    {
-      "path": "README.md",
-      "sha256": "fad85a7b8b1e078ab8b0288048e65d11a0243b6aaee26e1c4f990df3ad96be7f"
-    }
-  ],
-  "signature": "a24ae0012bf57397c1c975b79b9d96806754b7f3e75704208ca3468934db8751",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Sector Pack EPC & Professional Delivery must be signed before stable promotion."
 }

@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.146Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "0760cc65a089914cb085ea88165c2ee7a70b95b33a4d709d51741aa251da2d0a"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "64ad5241ce5c98ebe0eb3da8b43885d0020abe1328f80b200bce419242fbe0a0"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "cfa56fa1686e43e94d62e2131279cf783778ab967e7d408cbb0255a5aac27eb3"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "e347d78e8cf7e8ed14177a4ba605e5e0de4f2fd86c95407f0b349252c3cc2180"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "81a3f33ec2d58eeb0f968b10b75d86af92282b967794d725366b35a8343a03d9"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "189ce175c51772af3262826b9b98dd5b29274ec48a1e0c0a59860dd0ba6d360a"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "59ebec12426187e5bb196677d4ef9595e74a8b2967c069f5d8ea0a912acc7b5f"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "aac71c99225c0ce8cae6f1a4c880aea624611d35706b956977bae1145e080ee6"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "d471cd8bd7f050a78931918ed715f1430e1573f6937759da86035f667a6fcb58"
-    },
-    {
-      "path": "README.md",
-      "sha256": "d14398fccde758d0fb205898ad8d45a0471a942411ac0faff94b23f471d4e584"
-    }
-  ],
-  "signature": "99a945f6681221a1ef7b8672dfd1312fd14846287349649cf0232c99f5f57c22",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Sector Pack Manufacturing must be signed before stable promotion."
 }

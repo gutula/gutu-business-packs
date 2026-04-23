@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.149Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "ed822c67a0dfb4ec350a9e7263e94f6410ce9c8e4ded839a7b6421d1ace2baf9"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "0ae2be283538200f92959548b748d1dbdba2a3d8973f82129aab269f7beddece"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "aed25313265c5ea932feada5a12c484d6a61f6ae8a80b508d9e974e916c61940"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "02b7c837e3610661906e19e5e127dcb746974c5e3eafd1d7658f15b11d5b650a"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "42a4b336b98e6f130812b400e51bf42f3032ce30bd14d895e2987069888ddc58"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "42599a18a3404290a7d525a1feeb8a2dbb9ddf84e7d1bbdf43abfaeadfd37908"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "78161854102ea8f9ece55ea8fb5fe34290c677fe6416c317de6ed0257c396668"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "fb12709e9f1bdd0134c49a62c6653bff6775834b60de204bd6d4c00d9fc5256d"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "c4d969e50ce1a3cf9192b7269910d1ff9db393b8d8c14e62d777fe42219ba3c7"
-    },
-    {
-      "path": "README.md",
-      "sha256": "4292915c00c3132bb4b3e345ff9fc651db7c6cecfbe86e54626644a232b8ebb7"
-    }
-  ],
-  "signature": "88387dc8d33801a6ca7d7773a3a2bca62673861df927fee58be0a3cf6060fc19",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Sector Pack Nonprofit must be signed before stable promotion."
 }

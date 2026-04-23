@@ -1,51 +1,10 @@
 {
-  "signed": true,
-  "trustTier": "first-party-signed",
-  "signer": "gutu-local-certify",
-  "signedAt": "2026-04-23T07:05:17.148Z",
-  "mode": "signed",
-  "files": [
-    {
-      "path": "package.ts",
-      "sha256": "9422f815b95f197c414bd7243548958490e72e0b98a2447f9ae5dc666f3a6baf"
-    },
-    {
-      "path": "pack.json",
-      "sha256": "90682e984902ef71ca69e56368074f613d97e4ec22c9a8f1410670c5b2a4da50"
-    },
-    {
-      "path": "dependencies.json",
-      "sha256": "57b8ab0c0ae5921bb3c2fb763c4793b182824759f196bf8546b8aec30d277441"
-    },
-    {
-      "path": "objects/settings/defaults.json",
-      "sha256": "3a385f25cea1a6983a15a64508354474fb44f90c43e1711b2f4b42ce2c0c32c6"
-    },
-    {
-      "path": "objects/workflows/default.json",
-      "sha256": "368c7f4cd97f3c5ee0ec2dba2a5b30d96e2fdd8f9e84fa61d5e8aaed9ed03116"
-    },
-    {
-      "path": "objects/dashboards/overview.json",
-      "sha256": "52f8b91069fea061b0d3093279271991971b75408c9ec89316c7d227c9e2c3d5"
-    },
-    {
-      "path": "objects/reports/overview.json",
-      "sha256": "c77f4a30625b8baf92f5e44e1013f85a3f3b0a9b58bec04658e269ce415ac190"
-    },
-    {
-      "path": "objects/automations/default.json",
-      "sha256": "5661a99d5728c0183860c4adba70c8adc47b7bf092eb2d32578a3d0bbe8ef462"
-    },
-    {
-      "path": "tests/validation.json",
-      "sha256": "7f73bc891434f17d55a26700133a4175616c8a63132e1cd7e22fe1e3bc4d612d"
-    },
-    {
-      "path": "README.md",
-      "sha256": "095dc88e1c49b2bf9f2d28da5e69a2705d30413fe0df9cd6da3d8d6350145cc9"
-    }
-  ],
-  "signature": "44280b395a3e9da9ff4e7bc2183534856926c9f1a5ef86eb112d9688dc2d7070",
-  "note": "Signed for promotion into stable channels."
+  "signed": false,
+  "trustTier": "unsigned-dev",
+  "signer": "local-dev",
+  "signedAt": null,
+  "mode": "digest-only",
+  "signature": null,
+  "files": [],
+  "note": "Sector Pack Healthcare must be signed before stable promotion."
 }
