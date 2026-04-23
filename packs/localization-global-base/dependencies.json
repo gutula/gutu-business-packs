@@ -1,0 +1,17 @@
+{
+  "requiredPlugins": [
+    "party-relationships-core",
+    "product-catalog-core",
+    "pricing-tax-core",
+    "traceability-core",
+    "accounting-core"
+  ],
+  "dependsOnPacks": [],
+  "pluginConstraints": {
+    "party-relationships-core": "^0.1.0",
+    "product-catalog-core": "^0.1.0",
+    "pricing-tax-core": "^0.1.0",
+    "traceability-core": "^0.1.0",
+    "accounting-core": "^0.1.0"
+  }
+}

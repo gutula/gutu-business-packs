@@ -1,0 +1,29 @@
+{
+  "packType": "localization-pack",
+  "name": "localization-india",
+  "version": "0.1.0",
+  "publisher": "gutula",
+  "platformVersion": ">=0.1.0 <1.0.0",
+  "pluginConstraints": {
+    "pricing-tax-core": "^0.1.0",
+    "accounting-core": "^0.1.0",
+    "e-invoicing-core": "^0.1.0",
+    "hr-payroll-core": "^0.1.0"
+  },
+  "dependsOnPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "mergePolicy": {
+    "settings": "merge",
+    "workflows": "replace",
+    "dashboards": "upsert",
+    "reports": "upsert"
+  },
+  "trustTier": "internal-signed",
+  "compatibilityChannel": "next",
+  "dryRunSupported": true,
+  "rollbackStrategy": "inverse-patch",
+  "environmentScope": "localization",
+  "signaturesFile": "signatures.json",
+  "dependenciesFile": "dependencies.json"
+}

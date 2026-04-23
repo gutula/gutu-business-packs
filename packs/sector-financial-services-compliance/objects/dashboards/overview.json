@@ -1,0 +1,10 @@
+{
+  "id": "financial-services-sector-overview",
+  "title": "Financial Services Compliance Overview",
+  "widgets": [
+    "kyc",
+    "case-backlog",
+    "evidence-retention",
+    "exceptions"
+  ]
+}

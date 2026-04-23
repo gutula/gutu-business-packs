@@ -1,0 +1,10 @@
+{
+  "label": "Localization United States",
+  "description": "United States fiscal, withholding, sales-tax, and payroll-oriented localization overlays for Gutu business deployments.",
+  "defaults": {
+    "numberingSeries": "US-{{company}}-{{fiscalYear}}",
+    "taxRegime": "sales-tax",
+    "withholdingMode": "federal-state",
+    "statutoryLanguage": "en-US"
+  }
+}

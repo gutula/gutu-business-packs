@@ -1,0 +1,9 @@
+{
+  "workflowId": "ecommerce-sector-governance",
+  "actors": [
+    "commerce-ops",
+    "fraud-reviewer",
+    "support-lead"
+  ],
+  "description": "Sector Pack E-Commerce governance workflow"
+}

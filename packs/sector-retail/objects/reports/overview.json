@@ -1,0 +1,8 @@
+{
+  "packId": "sector-retail",
+  "reports": [
+    "sector-retail.operational-overview",
+    "sector-retail.exception-backlog",
+    "sector-retail.adoption-summary"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack E-Commerce",
+  "description": "E-commerce overlays for web or marketplace orders, payment timeout handling, RMA posture, and self-service returns.",
+  "defaults": {
+    "starterProfile": "ecommerce",
+    "paymentTimeoutMinutes": 30,
+    "returnAuthorization": "required",
+    "fulfillmentSla": "two-day"
+  }
+}

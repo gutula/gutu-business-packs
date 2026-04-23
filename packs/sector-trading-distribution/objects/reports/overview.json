@@ -1,0 +1,8 @@
+{
+  "packId": "sector-trading-distribution",
+  "reports": [
+    "sector-trading-distribution.operational-overview",
+    "sector-trading-distribution.exception-backlog",
+    "sector-trading-distribution.adoption-summary"
+  ]
+}

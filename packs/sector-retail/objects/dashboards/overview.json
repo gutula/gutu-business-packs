@@ -1,0 +1,10 @@
+{
+  "id": "retail-sector-overview",
+  "title": "Retail Sector Overview",
+  "widgets": [
+    "store-sales",
+    "cashier-variance",
+    "offline-sync",
+    "returns"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "workflowId": "retail-sector-governance",
+  "actors": [
+    "store-manager",
+    "controller",
+    "retail-ops"
+  ],
+  "description": "Sector Pack Retail governance workflow"
+}

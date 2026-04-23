@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-ecommerce.default-governance",
+  "workflowId": "ecommerce-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "orders",
+    "returns",
+    "payment-timeouts",
+    "fulfillment-sla"
+  ]
+}

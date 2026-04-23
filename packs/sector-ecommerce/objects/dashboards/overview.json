@@ -1,0 +1,10 @@
+{
+  "id": "ecommerce-sector-overview",
+  "title": "E-Commerce Overview",
+  "widgets": [
+    "orders",
+    "returns",
+    "payment-timeouts",
+    "fulfillment-sla"
+  ]
+}

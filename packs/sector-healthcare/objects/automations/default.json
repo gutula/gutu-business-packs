@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-healthcare.default-governance",
+  "workflowId": "healthcare-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "encounters",
+    "consents",
+    "consumables",
+    "billing-posture"
+  ]
+}

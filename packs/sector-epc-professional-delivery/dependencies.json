@@ -1,0 +1,19 @@
+{
+  "requiredPlugins": [
+    "projects-core",
+    "procurement-core",
+    "sales-core",
+    "accounting-core",
+    "contracts-core"
+  ],
+  "dependsOnPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "pluginConstraints": {
+    "projects-core": "^0.1.0",
+    "procurement-core": "^0.1.0",
+    "sales-core": "^0.1.0",
+    "accounting-core": "^0.1.0",
+    "contracts-core": "^0.1.0"
+  }
+}

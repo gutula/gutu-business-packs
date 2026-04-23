@@ -1,0 +1,9 @@
+{
+  "workflowId": "financial-services-sector-governance",
+  "actors": [
+    "compliance-officer",
+    "ops",
+    "approver"
+  ],
+  "description": "Sector Pack Financial Services Compliance governance workflow"
+}

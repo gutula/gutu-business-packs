@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Manufacturing",
+  "description": "Discrete manufacturing overlays for production, quality, inventory, and accounting-heavy operational flows.",
+  "defaults": {
+    "starterProfile": "manufacturing",
+    "qualityMode": "mandatory-gates",
+    "stockValuation": "fifo",
+    "mrpPolicy": "make-and-buy"
+  }
+}

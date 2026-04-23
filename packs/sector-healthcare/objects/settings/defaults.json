@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Healthcare",
+  "description": "Healthcare overlays for patient-facing intake, encounter support, pharmacy or consumable inventory, and regulated billing or consent posture.",
+  "defaults": {
+    "starterProfile": "healthcare",
+    "consentChecks": "mandatory",
+    "stockMode": "consumables",
+    "privacyProfile": "regulated"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Localization Global Base",
+  "description": "Baseline numbering, currency, translation, and common fiscal-policy overlays shared by localized business deployments.",
+  "defaults": {
+    "numberingSeries": "GLOBAL-{{company}}-{{fiscalYear}}",
+    "baseCurrencyPolicy": "multi-currency",
+    "translationProfile": "global-default",
+    "taxRoundingMode": "commercial"
+  }
+}

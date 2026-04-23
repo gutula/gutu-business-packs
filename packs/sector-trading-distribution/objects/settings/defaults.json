@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Trading & Distribution",
+  "description": "Trading and distribution overlays for sourcing, multi-warehouse fulfillment, pricing, and channel operations.",
+  "defaults": {
+    "starterProfile": "trading-distribution",
+    "replenishmentMode": "reorder-point",
+    "pricingMode": "channel-aware",
+    "warehouseTopology": "multi-warehouse"
+  }
+}

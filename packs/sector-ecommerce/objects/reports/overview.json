@@ -1,0 +1,8 @@
+{
+  "packId": "sector-ecommerce",
+  "reports": [
+    "sector-ecommerce.operational-overview",
+    "sector-ecommerce.exception-backlog",
+    "sector-ecommerce.adoption-summary"
+  ]
+}

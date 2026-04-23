@@ -1,0 +1,8 @@
+{
+  "packId": "sector-professional-services",
+  "reports": [
+    "sector-professional-services.operational-overview",
+    "sector-professional-services.exception-backlog",
+    "sector-professional-services.adoption-summary"
+  ]
+}

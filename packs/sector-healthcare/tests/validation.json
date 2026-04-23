@@ -1,0 +1,19 @@
+{
+  "packId": "sector-healthcare",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "accounting-core",
+    "inventory-core",
+    "support-service-core",
+    "crm-core",
+    "hr-payroll-core",
+    "business-portals-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "requiredPlugins": [
+    "pricing-tax-core",
+    "accounting-core",
+    "e-invoicing-core",
+    "hr-payroll-core"
+  ],
+  "dependsOnPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "pluginConstraints": {
+    "pricing-tax-core": "^0.1.0",
+    "accounting-core": "^0.1.0",
+    "e-invoicing-core": "^0.1.0",
+    "hr-payroll-core": "^0.1.0"
+  }
+}

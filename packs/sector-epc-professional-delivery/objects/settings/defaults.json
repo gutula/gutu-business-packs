@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack EPC & Professional Delivery",
+  "description": "Project-heavy EPC and delivery overlays for milestones, BOQ-style structures, procurement packages, and progress billing.",
+  "defaults": {
+    "starterProfile": "epc-professional-delivery",
+    "billingMode": "milestone",
+    "budgetControl": "commitment-aware",
+    "documentControl": "enabled"
+  }
+}

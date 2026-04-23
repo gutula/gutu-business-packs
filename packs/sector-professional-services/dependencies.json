@@ -1,0 +1,23 @@
+{
+  "requiredPlugins": [
+    "crm-core",
+    "sales-core",
+    "projects-core",
+    "accounting-core",
+    "support-service-core",
+    "hr-payroll-core",
+    "contracts-core"
+  ],
+  "dependsOnPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "pluginConstraints": {
+    "crm-core": "^0.1.0",
+    "sales-core": "^0.1.0",
+    "projects-core": "^0.1.0",
+    "accounting-core": "^0.1.0",
+    "support-service-core": "^0.1.0",
+    "hr-payroll-core": "^0.1.0",
+    "contracts-core": "^0.1.0"
+  }
+}

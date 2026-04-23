@@ -1,0 +1,10 @@
+{
+  "id": "us-localization-overview",
+  "title": "US Localization Overview",
+  "widgets": [
+    "sales-tax",
+    "banking",
+    "payroll-rules",
+    "statutory-exports"
+  ]
+}

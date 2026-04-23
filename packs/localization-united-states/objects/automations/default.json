@@ -1,0 +1,11 @@
+{
+  "automationId": "localization-united-states.default-governance",
+  "workflowId": "us-localization-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "sales-tax",
+    "banking",
+    "payroll-rules",
+    "statutory-exports"
+  ]
+}

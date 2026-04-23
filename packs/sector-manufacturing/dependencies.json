@@ -1,0 +1,23 @@
+{
+  "requiredPlugins": [
+    "accounting-core",
+    "procurement-core",
+    "sales-core",
+    "inventory-core",
+    "manufacturing-core",
+    "quality-core",
+    "assets-core"
+  ],
+  "dependsOnPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "pluginConstraints": {
+    "accounting-core": "^0.1.0",
+    "procurement-core": "^0.1.0",
+    "sales-core": "^0.1.0",
+    "inventory-core": "^0.1.0",
+    "manufacturing-core": "^0.1.0",
+    "quality-core": "^0.1.0",
+    "assets-core": "^0.1.0"
+  }
+}

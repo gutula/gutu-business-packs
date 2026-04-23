@@ -1,0 +1,10 @@
+{
+  "id": "india-localization-overview",
+  "title": "India Localization Overview",
+  "widgets": [
+    "gst-registrations",
+    "withholding-rules",
+    "e-invoicing",
+    "statutory-reports"
+  ]
+}

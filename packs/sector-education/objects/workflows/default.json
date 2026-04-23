@@ -1,0 +1,9 @@
+{
+  "workflowId": "education-sector-governance",
+  "actors": [
+    "registrar",
+    "finance",
+    "student-services"
+  ],
+  "description": "Sector Pack Education governance workflow"
+}

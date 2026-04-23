@@ -1,0 +1,10 @@
+{
+  "id": "professional-services-sector-overview",
+  "title": "Professional Services Overview",
+  "widgets": [
+    "utilization",
+    "billable-time",
+    "client-profitability",
+    "retainers"
+  ]
+}

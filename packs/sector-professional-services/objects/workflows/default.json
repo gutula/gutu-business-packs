@@ -1,0 +1,9 @@
+{
+  "workflowId": "professional-services-sector-governance",
+  "actors": [
+    "practice-lead",
+    "project-manager",
+    "controller"
+  ],
+  "description": "Sector Pack Professional Services governance workflow"
+}

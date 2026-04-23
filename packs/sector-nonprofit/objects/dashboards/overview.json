@@ -1,0 +1,10 @@
+{
+  "id": "nonprofit-sector-overview",
+  "title": "Nonprofit Overview",
+  "widgets": [
+    "donors",
+    "grants",
+    "fund-usage",
+    "program-outcomes"
+  ]
+}

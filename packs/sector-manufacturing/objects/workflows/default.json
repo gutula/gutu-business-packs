@@ -1,0 +1,9 @@
+{
+  "workflowId": "manufacturing-sector-governance",
+  "actors": [
+    "planner",
+    "quality-lead",
+    "controller"
+  ],
+  "description": "Sector Pack Manufacturing governance workflow"
+}

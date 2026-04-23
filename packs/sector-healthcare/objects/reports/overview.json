@@ -1,0 +1,8 @@
+{
+  "packId": "sector-healthcare",
+  "reports": [
+    "sector-healthcare.operational-overview",
+    "sector-healthcare.exception-backlog",
+    "sector-healthcare.adoption-summary"
+  ]
+}

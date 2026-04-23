@@ -1,0 +1,20 @@
+{
+  "packId": "sector-manufacturing",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "accounting-core",
+    "procurement-core",
+    "sales-core",
+    "inventory-core",
+    "manufacturing-core",
+    "quality-core",
+    "assets-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

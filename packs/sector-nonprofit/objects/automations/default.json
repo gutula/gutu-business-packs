@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-nonprofit.default-governance",
+  "workflowId": "nonprofit-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "donors",
+    "grants",
+    "fund-usage",
+    "program-outcomes"
+  ]
+}

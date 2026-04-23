@@ -1,0 +1,8 @@
+{
+  "packId": "sector-epc-professional-delivery",
+  "reports": [
+    "sector-epc-professional-delivery.operational-overview",
+    "sector-epc-professional-delivery.exception-backlog",
+    "sector-epc-professional-delivery.adoption-summary"
+  ]
+}

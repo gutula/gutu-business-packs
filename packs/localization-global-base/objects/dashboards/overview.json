@@ -1,0 +1,10 @@
+{
+  "id": "global-localization-overview",
+  "title": "Global Localization Overview",
+  "widgets": [
+    "currencies",
+    "translations",
+    "tax-rules",
+    "numbering-series"
+  ]
+}

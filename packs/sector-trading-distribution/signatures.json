@@ -1,0 +1,51 @@
+{
+  "signed": true,
+  "trustTier": "first-party-signed",
+  "signer": "gutu-local-certify",
+  "signedAt": "2026-04-23T07:05:17.146Z",
+  "mode": "signed",
+  "files": [
+    {
+      "path": "package.ts",
+      "sha256": "eec1ef306618eda671a64e5092db233609cf04e39d37f3f733f30bab58651f04"
+    },
+    {
+      "path": "pack.json",
+      "sha256": "8870a9f2c011c1d6914c08e8b36bfd557fb710c040403706d75b088f379f7821"
+    },
+    {
+      "path": "dependencies.json",
+      "sha256": "84252ffedad69a6f930c2d1c43a4333bdec9908425de926d5c39a178874c3b49"
+    },
+    {
+      "path": "objects/settings/defaults.json",
+      "sha256": "67977ec7c8091535d1cea20bbad703745abac64c0cf6b7ca1578b0a2e49fbe5e"
+    },
+    {
+      "path": "objects/workflows/default.json",
+      "sha256": "d06f70f5a2dd5d96d6a89abde8d09d496850c52ee969a1e5fa777df5b81d2ccb"
+    },
+    {
+      "path": "objects/dashboards/overview.json",
+      "sha256": "f1aa9bff86eb4c28c2bfc759f6a98ed53d27dec633c35a0f2b634539b2a29071"
+    },
+    {
+      "path": "objects/reports/overview.json",
+      "sha256": "580c53d65cdaff1e3e84aedae4656992bd8ff3e59672b585b4e577ebb490ab59"
+    },
+    {
+      "path": "objects/automations/default.json",
+      "sha256": "79b65f92e9a1fc2a285741276ef65fc94fd88d977b20946c2e14745eab49f39a"
+    },
+    {
+      "path": "tests/validation.json",
+      "sha256": "2563480ed8cebd18db5b6a784ca038c4ed44fde0786b269c93bb4194534419c7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6e4b3d00bf27dc8432348b2c63a2eb659c4f396fb7dd3b6eda7babad534a80fd"
+    }
+  ],
+  "signature": "6681bf10b9e26465ca188cee11ae85e044771bec82f8a2eb7e4f35104f668682",
+  "note": "Signed for promotion into stable channels."
+}

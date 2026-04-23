@@ -1,0 +1,11 @@
+{
+  "name": "gutu-business-packs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-pack-catalog.mjs",
+    "sign": "node scripts/sign-pack-catalog.mjs",
+    "promote:stable": "node scripts/promote-pack-channel.mjs stable",
+    "ci": "bun run validate"
+  }
+}

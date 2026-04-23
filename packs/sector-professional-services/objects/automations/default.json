@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-professional-services.default-governance",
+  "workflowId": "professional-services-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "utilization",
+    "billable-time",
+    "client-profitability",
+    "retainers"
+  ]
+}

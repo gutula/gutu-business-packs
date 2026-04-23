@@ -1,0 +1,20 @@
+{
+  "packId": "sector-professional-services",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "crm-core",
+    "sales-core",
+    "projects-core",
+    "accounting-core",
+    "support-service-core",
+    "hr-payroll-core",
+    "contracts-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

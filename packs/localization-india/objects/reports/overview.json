@@ -1,0 +1,8 @@
+{
+  "packId": "localization-india",
+  "reports": [
+    "localization-india.operational-overview",
+    "localization-india.exception-backlog",
+    "localization-india.adoption-summary"
+  ]
+}

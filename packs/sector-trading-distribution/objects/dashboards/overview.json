@@ -1,0 +1,10 @@
+{
+  "id": "trading-distribution-overview",
+  "title": "Trading & Distribution Overview",
+  "widgets": [
+    "backlog",
+    "otif",
+    "replenishment",
+    "price-variance"
+  ]
+}

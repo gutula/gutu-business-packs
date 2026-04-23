@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Professional Services",
+  "description": "Professional-services overlays for resource planning, retainers, timesheet billing, and client-service profitability.",
+  "defaults": {
+    "starterProfile": "professional-services",
+    "billingMode": "time-and-materials",
+    "resourcePlanning": "enabled",
+    "retainerPolicy": "supported"
+  }
+}

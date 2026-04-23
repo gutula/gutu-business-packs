@@ -1,0 +1,9 @@
+{
+  "workflowId": "global-localization-governance",
+  "actors": [
+    "localization-admin",
+    "finance",
+    "approver"
+  ],
+  "description": "Localization Global Base governance workflow"
+}

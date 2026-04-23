@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-epc-professional-delivery.default-governance",
+  "workflowId": "epc-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "milestones",
+    "commitments",
+    "change-orders",
+    "budget-burn"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "workflowId": "nonprofit-sector-governance",
+  "actors": [
+    "program-owner",
+    "finance",
+    "fund-manager"
+  ],
+  "description": "Sector Pack Nonprofit governance workflow"
+}

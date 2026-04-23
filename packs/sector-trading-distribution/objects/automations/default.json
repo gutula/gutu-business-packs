@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-trading-distribution.default-governance",
+  "workflowId": "trading-distribution-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "backlog",
+    "otif",
+    "replenishment",
+    "price-variance"
+  ]
+}

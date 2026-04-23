@@ -1,0 +1,19 @@
+{
+  "packId": "sector-ecommerce",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "sales-core",
+    "inventory-core",
+    "accounting-core",
+    "crm-core",
+    "support-service-core",
+    "business-portals-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

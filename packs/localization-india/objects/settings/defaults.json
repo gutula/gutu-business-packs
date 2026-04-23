@@ -1,0 +1,10 @@
+{
+  "label": "Localization India",
+  "description": "India-focused GST, withholding, statutory numbering, and e-invoicing overlays for Gutu business deployments.",
+  "defaults": {
+    "numberingSeries": "IN-{{company}}-{{fiscalYear}}",
+    "taxRegime": "gst",
+    "withholdingMode": "tds-tcs",
+    "statutoryLanguage": "en-IN"
+  }
+}

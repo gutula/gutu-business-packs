@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-manufacturing.default-governance",
+  "workflowId": "manufacturing-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "wip",
+    "scrap",
+    "quality-holds",
+    "production-variance"
+  ]
+}

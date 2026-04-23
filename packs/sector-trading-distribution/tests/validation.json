@@ -1,0 +1,18 @@
+{
+  "packId": "sector-trading-distribution",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "accounting-core",
+    "procurement-core",
+    "sales-core",
+    "inventory-core",
+    "crm-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "workflowId": "epc-sector-governance",
+  "actors": [
+    "project-manager",
+    "commercial-owner",
+    "controller"
+  ],
+  "description": "Sector Pack EPC & Professional Delivery governance workflow"
+}

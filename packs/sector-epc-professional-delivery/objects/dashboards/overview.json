@@ -1,0 +1,10 @@
+{
+  "id": "epc-sector-overview",
+  "title": "EPC & Professional Delivery Overview",
+  "widgets": [
+    "milestones",
+    "commitments",
+    "change-orders",
+    "budget-burn"
+  ]
+}

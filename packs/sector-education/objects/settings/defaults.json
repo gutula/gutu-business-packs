@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Education",
+  "description": "Education overlays for student, guardian, fees, academic exception handling, and institution-focused workflows.",
+  "defaults": {
+    "starterProfile": "education",
+    "admissionsMode": "governed",
+    "feePolicy": "term-based",
+    "guardianPortal": "enabled"
+  }
+}

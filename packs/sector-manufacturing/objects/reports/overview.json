@@ -1,0 +1,8 @@
+{
+  "packId": "sector-manufacturing",
+  "reports": [
+    "sector-manufacturing.operational-overview",
+    "sector-manufacturing.exception-backlog",
+    "sector-manufacturing.adoption-summary"
+  ]
+}

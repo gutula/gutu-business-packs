@@ -1,0 +1,8 @@
+{
+  "packId": "localization-united-states",
+  "reports": [
+    "localization-united-states.operational-overview",
+    "localization-united-states.exception-backlog",
+    "localization-united-states.adoption-summary"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "packId": "sector-financial-services-compliance",
+  "reports": [
+    "sector-financial-services-compliance.operational-overview",
+    "sector-financial-services-compliance.exception-backlog",
+    "sector-financial-services-compliance.adoption-summary"
+  ]
+}

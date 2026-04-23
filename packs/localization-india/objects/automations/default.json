@@ -1,0 +1,11 @@
+{
+  "automationId": "localization-india.default-governance",
+  "workflowId": "india-localization-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "gst-registrations",
+    "withholding-rules",
+    "e-invoicing",
+    "statutory-reports"
+  ]
+}

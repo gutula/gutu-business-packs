@@ -1,0 +1,10 @@
+{
+  "id": "manufacturing-sector-overview",
+  "title": "Manufacturing Sector Overview",
+  "widgets": [
+    "wip",
+    "scrap",
+    "quality-holds",
+    "production-variance"
+  ]
+}

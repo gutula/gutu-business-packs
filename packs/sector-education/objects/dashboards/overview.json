@@ -1,0 +1,10 @@
+{
+  "id": "education-sector-overview",
+  "title": "Education Overview",
+  "widgets": [
+    "admissions",
+    "fees",
+    "student-cases",
+    "academic-exceptions"
+  ]
+}

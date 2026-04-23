@@ -1,0 +1,18 @@
+{
+  "packId": "sector-nonprofit",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "accounting-core",
+    "crm-core",
+    "projects-core",
+    "support-service-core",
+    "business-portals-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

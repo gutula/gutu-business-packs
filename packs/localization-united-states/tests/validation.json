@@ -1,0 +1,17 @@
+{
+  "packId": "localization-united-states",
+  "packType": "localization-pack",
+  "requiredPlugins": [
+    "pricing-tax-core",
+    "accounting-core",
+    "hr-payroll-core",
+    "treasury-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

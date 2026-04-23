@@ -1,0 +1,11 @@
+{
+  "automationId": "localization-global-base.default-governance",
+  "workflowId": "global-localization-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "currencies",
+    "translations",
+    "tax-rules",
+    "numbering-series"
+  ]
+}

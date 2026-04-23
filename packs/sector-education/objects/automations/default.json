@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-education.default-governance",
+  "workflowId": "education-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "admissions",
+    "fees",
+    "student-cases",
+    "academic-exceptions"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "packId": "sector-financial-services-compliance",
+  "packType": "sector-template",
+  "requiredPlugins": [
+    "crm-core",
+    "accounting-core",
+    "support-service-core",
+    "contracts-core",
+    "business-portals-core"
+  ],
+  "expectedObjects": [
+    "settings/defaults",
+    "workflows/default",
+    "dashboards/overview",
+    "reports/overview",
+    "automations/default"
+  ]
+}

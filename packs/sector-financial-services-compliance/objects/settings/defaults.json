@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Financial Services Compliance",
+  "description": "Financial-services compliance overlays for onboarding, case posture, retention, evidence, and regulated review workflows.",
+  "defaults": {
+    "starterProfile": "financial-services-compliance",
+    "onboardingMode": "kyc-governed",
+    "evidenceRetention": "extended",
+    "reviewProfile": "regulated"
+  }
+}

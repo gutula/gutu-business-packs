@@ -1,0 +1,9 @@
+{
+  "workflowId": "healthcare-sector-governance",
+  "actors": [
+    "care-ops",
+    "finance",
+    "compliance"
+  ],
+  "description": "Sector Pack Healthcare governance workflow"
+}

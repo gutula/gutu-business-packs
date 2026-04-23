@@ -1,0 +1,8 @@
+{
+  "packId": "sector-education",
+  "reports": [
+    "sector-education.operational-overview",
+    "sector-education.exception-backlog",
+    "sector-education.adoption-summary"
+  ]
+}

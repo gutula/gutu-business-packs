@@ -1,0 +1,19 @@
+{
+  "requiredPlugins": [
+    "accounting-core",
+    "procurement-core",
+    "sales-core",
+    "inventory-core",
+    "crm-core"
+  ],
+  "dependsOnPacks": [
+    "localization-global-base@^0.1.0"
+  ],
+  "pluginConstraints": {
+    "accounting-core": "^0.1.0",
+    "procurement-core": "^0.1.0",
+    "sales-core": "^0.1.0",
+    "inventory-core": "^0.1.0",
+    "crm-core": "^0.1.0"
+  }
+}

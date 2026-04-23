@@ -1,0 +1,9 @@
+{
+  "workflowId": "india-localization-governance",
+  "actors": [
+    "localization-admin",
+    "finance",
+    "compliance"
+  ],
+  "description": "Localization India governance workflow"
+}

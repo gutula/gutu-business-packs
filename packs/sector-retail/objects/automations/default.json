@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-retail.default-governance",
+  "workflowId": "retail-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "store-sales",
+    "cashier-variance",
+    "offline-sync",
+    "returns"
+  ]
+}

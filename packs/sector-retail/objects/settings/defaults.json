@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Retail",
+  "description": "Retail overlays for POS, promotions, cashier control, omnichannel fulfillment, and return-heavy store execution.",
+  "defaults": {
+    "starterProfile": "retail",
+    "loyaltyMode": "optional",
+    "syncMode": "offline-tolerant",
+    "returnWindowDays": 30
+  }
+}

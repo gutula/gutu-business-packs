@@ -1,0 +1,10 @@
+{
+  "label": "Sector Pack Nonprofit",
+  "description": "Nonprofit overlays for donor, grant, fund, program, and impact-oriented accounting and case workflows.",
+  "defaults": {
+    "starterProfile": "nonprofit",
+    "fundMode": "restricted-and-unrestricted",
+    "grantControls": "enabled",
+    "donorPortal": "enabled"
+  }
+}

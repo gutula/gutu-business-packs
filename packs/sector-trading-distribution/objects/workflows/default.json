@@ -1,0 +1,9 @@
+{
+  "workflowId": "trading-distribution-governance",
+  "actors": [
+    "buyer",
+    "sales-ops",
+    "warehouse-lead"
+  ],
+  "description": "Sector Pack Trading & Distribution governance workflow"
+}

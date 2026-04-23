@@ -1,0 +1,11 @@
+{
+  "automationId": "sector-financial-services-compliance.default-governance",
+  "workflowId": "financial-services-sector-governance",
+  "cadence": "daily-review",
+  "widgets": [
+    "kyc",
+    "case-backlog",
+    "evidence-retention",
+    "exceptions"
+  ]
+}

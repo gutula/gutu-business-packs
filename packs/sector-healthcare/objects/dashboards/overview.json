@@ -1,0 +1,10 @@
+{
+  "id": "healthcare-sector-overview",
+  "title": "Healthcare Overview",
+  "widgets": [
+    "encounters",
+    "consents",
+    "consumables",
+    "billing-posture"
+  ]
+}

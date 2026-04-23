@@ -1,0 +1,9 @@
+{
+  "workflowId": "us-localization-governance",
+  "actors": [
+    "localization-admin",
+    "finance",
+    "controller"
+  ],
+  "description": "Localization United States governance workflow"
+}

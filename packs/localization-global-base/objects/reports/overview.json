@@ -1,0 +1,8 @@
+{
+  "packId": "localization-global-base",
+  "reports": [
+    "localization-global-base.operational-overview",
+    "localization-global-base.exception-backlog",
+    "localization-global-base.adoption-summary"
+  ]
+}
